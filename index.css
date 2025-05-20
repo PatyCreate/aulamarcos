@@ -1,0 +1,10 @@
+body {
+    background-color: aquamarine;
+}
+
+.bnt {
+    color: blueviolet;
+    background-color: brown;
+    width: 100px;
+    border-radius: 20px;
+}
